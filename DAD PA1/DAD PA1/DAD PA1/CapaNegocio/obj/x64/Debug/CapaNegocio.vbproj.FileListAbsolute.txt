@@ -1,0 +1,17 @@
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\bin\x64\Debug\CapaNegocio.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\bin\x64\Debug\CapaNegocio.pdb
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\bin\x64\Debug\CapaNegocio.xml
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\bin\x64\Debug\CapaDatos.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\bin\x64\Debug\CapaEntidad.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\bin\x64\Debug\CapaDatos.pdb
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\bin\x64\Debug\CapaDatos.xml
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\bin\x64\Debug\CapaEntidad.pdb
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\bin\x64\Debug\CapaEntidad.xml
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\obj\x64\Debug\CapaNegocio.vbproj.AssemblyReference.cache
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\obj\x64\Debug\CapaNegocio.Resources.resources
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\obj\x64\Debug\CapaNegocio.vbproj.GenerateResource.cache
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\obj\x64\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\obj\x64\Debug\CapaNegocio.vbproj.CopyComplete
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\obj\x64\Debug\CapaNegocio.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\obj\x64\Debug\CapaNegocio.xml
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaNegocio\obj\x64\Debug\CapaNegocio.pdb

@@ -1,0 +1,103 @@
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\bin\Debug\CapaDatos.xml
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\bin\Debug\CapaEntidad.xml
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\obj\Debug\CapaDatos.xml
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaDatos.dll
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaDatos.xml
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.xml
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.dll
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.xml
+D:\02 - UNIVERSIDAD SEÑOR DE SIPAN\007.- CLASES 2021-2\1. TALLER DE LENGUAJES DE PROGRAMACIÓN\PROYECTO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\CapaDatos.xml
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.xml
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.xml
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NB145\Documents\GitHub\USS\DAD PA1\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Bryam\Downloads\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Bryam\Downloads\OTROS\COPIA DE PROYECTO NIXON VISUAL STUIDO\DAD PA1\DAD PA1\CapaDatos\obj\Debug\CapaDatos.pdb

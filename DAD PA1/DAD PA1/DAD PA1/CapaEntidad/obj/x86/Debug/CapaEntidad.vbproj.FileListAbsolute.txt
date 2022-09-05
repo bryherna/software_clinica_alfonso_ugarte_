@@ -1,0 +1,10 @@
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaEntidad\bin\x86\Debug\CapaEntidad.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaEntidad\bin\x86\Debug\CapaEntidad.pdb
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaEntidad\bin\x86\Debug\CapaEntidad.xml
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaEntidad\obj\x86\Debug\CapaEntidad.Resources.resources
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaEntidad\obj\x86\Debug\CapaEntidad.vbproj.GenerateResource.cache
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaEntidad\obj\x86\Debug\CapaEntidad.vbproj.CoreCompileInputs.cache
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaEntidad\obj\x86\Debug\CapaEntidad.dll
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaEntidad\obj\x86\Debug\CapaEntidad.xml
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaEntidad\obj\x86\Debug\CapaEntidad.pdb
+D:\Documentos\-Manuel-\Estudios\USS\GitHub\USS\DAD PA1\CapaEntidad\obj\x86\Debug\CapaEntidad.vbproj.AssemblyReference.cache
